@@ -27,3 +27,6 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+homework1
+out/
+.idea/
